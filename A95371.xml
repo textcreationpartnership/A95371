@@ -1,0 +1,351 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A commemoration, or A calling to minde of the great and eminent deliverance from the powder-plot. A mercie never to be forgotten by the people of God, who have been, still are, and ever will be, the greatest sharers in it, and the best imp[r]overs of it.</title>
+            <author>Turner, John, fl. 1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95371</idno>
+            <idno type="STC">Wing T3322</idno>
+            <idno type="STC">Thomason E813_10</idno>
+            <idno type="STC">ESTC R207335</idno>
+            <idno type="EEBO-CITATION">99866392</idno>
+            <idno type="PROQUEST">99866392</idno>
+            <idno type="VID">167948</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95371)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 167948)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 124:E813[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A commemoration, or A calling to minde of the great and eminent deliverance from the powder-plot. A mercie never to be forgotten by the people of God, who have been, still are, and ever will be, the greatest sharers in it, and the best imp[r]overs of it.</title>
+                  <author>Turner, John, fl. 1654.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.B. and are to be sold by John Collins dwelling in Little-Britain over against S. Buttolphs Church.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: John Turner.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>In the title, the r in "inprovers" has failed to print.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gunpowder Plot, 1605 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:167948:1" rendition="simple:additions"/>
+            <p>A COMMEMORATION, OR A calling to minde of the great and Eminent DELIVERANCE From the Powder-Plot. A Mercie never to be forgotten by the People of God, who have been, ſtill are, and ever will be, the greateſt ſharers in it, and the beſt Improvers of it.</p>
+            <q>
+               <bibl>Gen. 22. 14.</bibl> In the Mount of the Lord it ſhall be ſeen.</q>
+            <q>
+               <bibl>Eſay 54. 17.</bibl> No weapon that is formed againſt thee ſhall proſper.</q>
+            <q>
+               <bibl>Pſal. 124. 6, 7.</bibl> Bleſſed be the Lord, who hath not given us as a prey to their teeth: our ſoul is eſcaped as a Bird out of the ſnare of the fowler, the ſnare is broken, and we are eſcaped.</q>
+            <q>
+               <bibl>Pſal. 9 16</bibl> The wicked is ſnared in the work of his own hands.</q>
+            <p>
+               <hi>LONDON:</hi> Printed by J. B. and are to be ſold by <hi>John Col<g ref="char:EOLhyphen"/>lins</hi> dwelling in <hi>Little-Britain</hi> over againſt S. <hi>Buttolphs</hi> Church. 1654.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:167948:2"/>
+            <head>To the READER.</head>
+            <lg>
+               <l>REader, let not my plainneſs thee offend.</l>
+               <l>Your Charity be pleaſed to extend:</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nto your ſerious thoughts I do commend</l>
+               <l>A Mercie great, this was and is my End.</l>
+               <l>Though all that's ſaid ſhould want both wit and ſenſe,</l>
+               <l>Yet much of goodneſs you may reade from hence.</l>
+               <l>If you conſider well to whom, and whence</l>
+               <l>It was; to us unmeet, from Gods expence.</l>
+            </lg>
+            <closer>
+               <signed>JOHN TURNER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:167948:2"/>
+            <head>A Commemoration or a calling to minde of the great and eminent Deliverance from the POWDER-PLOT, &amp;c.</head>
+            <lg>
+               <l>
+                  <hi>ENgland</hi> alas almoſt hath quite forgot</l>
+               <l>The great deliverance from the Powder-plot;</l>
+               <l>Great mercies are, when that they're paſt and gon,</l>
+               <l>Laid aſide, and buried in oblivion.</l>
+               <l>Although the fruits of them are ſtill enjoy'd,</l>
+               <l>They are not own'd as though they were conveigh'd</l>
+               <l>From that which firſt of all in wombe did bear,</l>
+               <l>And afterwards to all men did appear.</l>
+               <l>The mercies all that now we do enjoy</l>
+               <l>We owe unto the mercie of that day;</l>
+               <l>That day the which the Lord himſelf did make</l>
+               <l>A day of joy, when we were brought toſtake,</l>
+               <l>And certainly had burned there, if he</l>
+               <l>Had not with haſte ſtept in to ſet us free.</l>
+               <l>Our foes with their moſt cruel Powder-plot,</l>
+               <l>Would have no leſs then Religion for their ſhot:</l>
+               <l>Yea ancient Records of the Civill Law</l>
+               <l>Muſt ſerve their helliſh fire inſtead of ſtraw.</l>
+               <l>How ſtrangely did our Foes with one conſent</l>
+               <l>Combine to ruine King and Parliament!</l>
+               <l>They did ſo cloſe their Enterprize conceal,</l>
+               <l>That none but God himſelf could it reveal;</l>
+               <l>Their actings all indeed were wrought ſo low,</l>
+               <l>That none but King of kings the ſame did know.</l>
+               <l>The way was ſtrange, by which he made it known,</l>
+               <l>Yet excellent, becauſe it was his own.</l>
+               <pb n="2" facs="tcp:167948:3"/>
+               <l>Theſe men of blood, for ſo I may them call,</l>
+               <l>In taking us, themſelves did catch the fall.</l>
+               <l>For he that did ſtrictly obſerve their way,</l>
+               <l>With their own Coyn did he in juſtice pay.</l>
+               <l>Into their hands he put the bitter Cup,</l>
+               <l>And he the dregs of it did make them ſup.</l>
+               <l>The God that's juſt, doth evermore delight</l>
+               <l>To give to men according to their right;</l>
+               <l>For he the works of men doth ſearch and try,</l>
+               <l>He'l pay them while they live, or when they die.</l>
+               <l>Unto his own he bear's ſuch great good will,</l>
+               <l>He loves them here, and ſo will love them ſtill:</l>
+               <l>His works for them, doth everie day declare</l>
+               <l>How lovely in his ſight his people are.</l>
+               <l>
+                  <hi>England</hi> hath cauſe to ſtand ſtill and admire,</l>
+               <l>That ſuch a Brand ſhould be kept from the fire.</l>
+               <l>Still have we cauſe from age to age to ſay,</l>
+               <l>The Lord alone hath been our ſtrength and ſtay:</l>
+               <l>For had not he pleaded his peoples cauſe,</l>
+               <l>And delivered them from the cruel jawes</l>
+               <l>Of them who did upon one day intend</l>
+               <l>To make their Religion with their lives to end.</l>
+               <l>But now may ſing, becauſe the ſnare is broke,</l>
+               <l>For we neither felt the fire, nor ſaw the ſmoke.</l>
+               <l>Now have we cauſe to ſay, and cry aloud,</l>
+               <l>The Lord is good, who kept us from a cloud,</l>
+               <l>Which if it had once on high aſcended,</l>
+               <l>Sure light ſhould have been with darkneſs ended.</l>
+               <l>This ſmoke with the ſmoke of the bottomleſs pit,</l>
+               <l>Would have blinded mens eyes, and have put them in it.</l>
+               <l>What did our adverſaries think to finde,</l>
+               <l>That they ſo long and low did undermine?</l>
+               <pb n="3" facs="tcp:167948:3"/>
+               <l>How did they with the inſtruments of death,</l>
+               <l>Deviſe to take away the life and breath</l>
+               <l>Of thoſe that were and are to God moſt dear?</l>
+               <l>And he did ſhew himſelf not far, but near.</l>
+               <l>What ſhall we think of this contrivance then?</l>
+               <l>Sure Devils were their counſellors, not men.</l>
+               <l>This did in many things of weight excell,</l>
+               <l>Not any plot of men can parallel;</l>
+               <l>With this indeed the like was never heard,</l>
+               <l>All things conſider'd well, how they were bar'd:</l>
+               <l>For in the Mount the Lord himſelf was ſeen,</l>
+               <l>Betwixt us and fire he was the ſcreen;</l>
+               <l>And ſo deliver'd us from the heat and flame,</l>
+               <l>For the great glory of his holy Name,</l>
+               <l>And for the ſakes of them whom he doth prize,</l>
+               <l>Therefore he did defeat their enemies;</l>
+               <l>When they were moſt ſecure and void of fear,</l>
+               <l>Then he their treaſon made for to appear.</l>
+               <l>Here is great cauſe indeed why we ſhould wonder,</l>
+               <l>Being ſaved from ſuch a clap of thunder,</l>
+               <l>Which would have obſtructed the airs light,</l>
+               <l>And brought in a darkneſs more dark then night,</l>
+               <l>A darkneſs to involve men in their ſin</l>
+               <l>By bringing of their Superſtition in,</l>
+               <l>And ſo make men to grope, but never finde,</l>
+               <l>Saving light to come into the minde.</l>
+               <l>Egyptian darkneſs nothing was to this,</l>
+               <l>This makes men eternal life to miſs.</l>
+               <l>If that the mercie in it ſelf be weigh'd,</l>
+               <l>How that the Lord came in unto our aid,</l>
+               <l>It cannot but affect the hardeſt heart,</l>
+               <l>Conſidering how foes did play their part:</l>
+               <pb n="4" facs="tcp:167948:4"/>
+               <l>They acted in a cruel work apace,</l>
+               <l>Like fierce and furious runners of a race.</l>
+               <l>They did not doubt but that they ſhould effect</l>
+               <l>The thing to which their actings did direct.</l>
+               <l>For they, like theeves, a time did proſper well,</l>
+               <l>Whilſt that the power and policy of hell</l>
+               <l>Could hide them in their actings, they went on,</l>
+               <l>But when they came unto the top, the ſtone</l>
+               <l>Which they had lifted long, began to role,</l>
+               <l>And fell upon them from a written ſcrole,</l>
+               <l>Which they had written to a friend, but he</l>
+               <l>Being appointed to keep others free</l>
+               <l>By him who orders all things as he pleaſe,</l>
+               <l>He caus'd ſuch hands on th' Letter for to ſeize,</l>
+               <l>That ſo they might it reade, and then preſent</l>
+               <l>The ſame to him, who knew well what it meant.</l>
+               <l>Though it was dark, it pieaſed God the thing</l>
+               <l>For to reveal and ſhew it to the King.</l>
+               <l>And he unto the Nobles did declare,</l>
+               <l>The danger they were in, and what great care</l>
+               <l>They were to have in ſearching under ground,</l>
+               <l>For there the powder was for to be found.</l>
+               <l>This ſearch being made, directed they were,</l>
+               <l>And at the length found him for to appear</l>
+               <l>With a dark-lanthorn ſtanding at the door,</l>
+               <l>While darkneſs did hide, he thought himſelf ſure;</l>
+               <l>Thinking no eye was able to behold</l>
+               <l>The heat intended before it was cold.</l>
+               <l>What did theſe wicked men intend, that they</l>
+               <l>Would burn ſo much fuel upon one day?</l>
+               <l>Sure they thought for to change the courſe o'th year,</l>
+               <l>Making Winter like Summer to appear.</l>
+               <pb n="5" facs="tcp:167948:4"/>
+               <l>Yea much more hotter by reaſon of heat,</l>
+               <l>By hot perſecution to make men ſweat,</l>
+               <l>Not water for health, but neereſt blood,</l>
+               <l>Would ſerve bloodie Hunters, or do them good.</l>
+               <l>
+                  <hi>Faux,</hi> who deſigned was to light the Match,</l>
+               <l>For to give wings unto a cruel hatch,</l>
+               <l>Which flying up unto, and through the skie,</l>
+               <l>Might make the ſtars to fall, and ſo to lie</l>
+               <l>Upon and in the ground, while they do boaſt,</l>
+               <l>Making great fires their fleſh for to roaſt.</l>
+               <l>But he that did the cry of <hi>Sodom</hi> hear,</l>
+               <l>And made their fins with fire to appear,</l>
+               <l>And leading <hi>Lot</hi> his faithful Servant thence,</l>
+               <l>He kept him from the fire's violence.</l>
+               <l>So dealt our good and gracious God with us;</l>
+               <l>But hee may ſay, Do you requite me thus?</l>
+               <l>Was the mercie I ſhewed you worth no more?</l>
+               <l>That you by it do ſet no greater ſtore?</l>
+               <l>Sure we have cauſe for ever to remember</l>
+               <l>The mercie ſhew'd the fifth day of <hi>November:</hi>
+               </l>
+               <l>More cauſe then they who liv'd in <hi>Heſters</hi> time,</l>
+               <l>Who had a Gallows built for them to climbe.</l>
+               <l>The people of the Jews could faſt and pray,</l>
+               <l>But we had not the uſe of ſuch a key;</l>
+               <l>They being warn'd before, had time and ſpace</l>
+               <l>To ſeek the preſence of that loving face,</l>
+               <l>The face of whom its life for to enjoy,</l>
+               <l>When once enjoy'd, what can the ſoul annoy?</l>
+               <l>Their Adverſary unto them was known,</l>
+               <l>Who would (if that he could) have overthrown,</l>
+               <l>Not onely <hi>Mordecai</hi> the Jew, but all</l>
+               <l>Muſt by the plot of wicked <hi>Haman</hi> fall.</l>
+               <pb n="6" facs="tcp:167948:5"/>
+               <l>The Gallows which he did in wrath prepare</l>
+               <l>For <hi>Mardecai,</hi> was his allotted ſhare,</l>
+               <l>The wicked works which he did once intend,</l>
+               <l>Together with the Actor's life did end.</l>
+               <l>God's people now, being by him made free,</l>
+               <l>Do ſpend and end their days in liberty,</l>
+               <l>Rejoycing in the work of him who wrought</l>
+               <l>Their deliverance; but brought to naught</l>
+               <l>Their enemies, who did againſt them riſe,</l>
+               <l>They ware with praiſe, what they had gain'd by cries.</l>
+               <l>This mercie did engage both them and theirs,</l>
+               <l>Being ſet free from all their grief and fears,</l>
+               <l>Now they reſolve, and ever do intend,</l>
+               <l>To praiſe the Lord who did them ſuccor ſend.</l>
+               <l>What ſhall the people of the Jews of old</l>
+               <l>Remember long with joy, how they were ſold</l>
+               <l>By their foe, who did their death deviſe,</l>
+               <l>Thinking to make their blood a Sacrifice?</l>
+               <l>Shall they their freedom ever call to minde,</l>
+               <l>And ſhall we to the Lord be ſo unkinde,</l>
+               <l>As not with thankfulneſs from year to year,</l>
+               <l>With thoughts admiring God, this mercie were,</l>
+               <l>This is the onely thing indeed which we,</l>
+               <l>Being alive, and from a ſnare ſet free,</l>
+               <l>Should ever ſpeak and ſing unto his praiſe,</l>
+               <l>And live to God, and walk in all his waies.</l>
+               <l>This will declare our joy for to be right,</l>
+               <l>When we walk as the children of the light.</l>
+               <l>Then Chriſtians do indeed Mercies record,</l>
+               <l>When by their lives they praiſe their bounteons Lord.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
